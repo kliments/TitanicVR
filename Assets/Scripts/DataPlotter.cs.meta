@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e7f724a1b257d1246a450c2083ae8e8f
+timeCreated: 1497610289
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - data: {fileID: 4900000, guid: 1d608f7ba519eab4dbbda9d001c0def6, type: 3}
+  - parentPlot: {instanceID: 0}
+  - cube: {instanceID: 0}
+  - sphere: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
